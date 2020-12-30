@@ -28,7 +28,7 @@ I am a Web, mobile, rest api and Chatbot, Enthusiast Developper from Ivory Coast
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SOULEYMANE&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/> -->
 
-[![Github Stats TOURE SOULEYMANE](https://github-readme-stats.vercel.app/api?username=toure5013&show_icons=true&include_all_commits=true&theme=algolia)" alt="TOURE SOULEYMANE's github stats"](https://github.com/toure5013)
+[![Github Stats TOURE SOULEYMANE](https://github-readme-stats.vercel.app/api?username=toure5013&show_icons=true&include_all_commits=true&theme=algolia)
 
 
 <br/>
