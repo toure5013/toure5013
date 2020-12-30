@@ -17,7 +17,11 @@ I am a Web, mobile and Chatbot, Enthusiast Developper from Ivory Coast <img widt
 - Api rest
 - 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SOULEYMANE&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SOULEYMANE&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/> -->
+
+[![Github Stats TOURE SOULEYMANE](https://github-readme-stats.vercel.app/api?username=toure5013&show_icons=true&include_all_commits=true&theme=algolia) alt="Anurag's github stats"/](https://github.com/toure5013)
+
+
 <br/>
 
 **Languages and Tools:**
