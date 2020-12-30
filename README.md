@@ -8,14 +8,23 @@
 <br />
 <br />
 
-I am a Web, mobile and Chatbot, Enthusiast Developper from Ivory Coast <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
+I am a Web, mobile, rest api and Chatbot, Enthusiast Developper from Ivory Coast 
+🇨🇮
 
 - 👨‍💻 I worked on many project : 
 - Web
 - Mobile
 - Chatbot
 - Api rest
-- 
+
+
+- 🥇 I participate on many Hackathon
+- Naija Hacks
+- Open Hacks
+- Standford Hacks
+- AgriHack
+- Concour Genie
+- Afrikhaton
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SOULEYMANE&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/> -->
 
