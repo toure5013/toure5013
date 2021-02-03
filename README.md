@@ -1,8 +1,11 @@
 ### Hello World 🌍 I'm [TOURE SOULEYMANE!](https://github.com/toure5013) 👋
 
 
-<a href="tel:+22508175631">
+<a href="tel:+2250708175631">
   <img align="left" alt="TOURE SOULEYMANE | Twitter" width="24px" src="/assets/whatsapp.png"/> +22508175631
+</a> 
+<a href="mailto:toure5013@gmail.com">
+  <img align="left" alt="TOURE SOULEYMANE | Twitter" width="24px" src="/assets/gmail.png"/> mailto:toure5013@gmail.com
 </a> 
 
 <br />
