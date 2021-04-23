@@ -52,8 +52,7 @@ I am a Web, mobile, rest api and Chatbot, Enthusiast Developper from Ivory Coast
 <code><img height="24px" src="./assets/mysql.png"></code>
 <code><img height="24px" src="./assets/chat-bot.png"></code>
 <code><img height="24px" src="./assets/caprover.png"></code>
-<code><img height="24px" src="./assets/elastic_search.png"></code>
-<code><img height="24px" src="./assets/api_rest.png"></code>
+<code><img height="24px" src="./assets/el_mg_cloug.png"></code>
 
 <br/>
 
