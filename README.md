@@ -7,20 +7,21 @@
 <br />
 
 <a href="mailto:toure5013@gmail.com">
-   📧       toure5013@gmail.com
+   📧 toure5013@gmail.com
 </a> 
 
 <br />
 <br />
 
-I am a Web, mobile, rest api and Chatbot, Enthusiast Developper from Ivory Coast 
-🇨🇮
+I am Fullstack Blockchain , Web, mobile, rest api and Chatbot, Enthusiast Developer from Ivory Coast 🇨🇮
 
 - 👨‍💻 I worked on many project : 
 - Web
-- Mobile
-- Chatbot
-- Api rest
+- Mobiles
+- Chatbots
+- Apis
+- dApps
+- DeFi
 
 
 - 🥇 I participate on many Hackathon
@@ -39,6 +40,12 @@ I am a Web, mobile, rest api and Chatbot, Enthusiast Developper from Ivory Coast
 <br/>
 
 **Languages and Tools:**
+
+<code><img height="24px" src="https://hardhat.org/assets/img/Hardhat-logo.652a7049.svg"></code>
+<code><img height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"></code>
+<code><img height="24px" src="https://ichi.pro/assets/images/max/724/1*P-T7USHsmPYOSBorXAqXYA.png"></code>
+<code><img height="24px" src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e"></code>
+<code><img height="24px" src="https://esp.ethereum.foundation/static/f8b753af4c23eb1e1c0896b62a37de8a/69585/ethers-js.png"></code>
 
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
