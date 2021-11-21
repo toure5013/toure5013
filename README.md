@@ -43,7 +43,7 @@ I am Fullstack Blockchain , Web, mobile, rest api and Chatbot, Enthusiast Develo
 
 <code><img height="24px" src="https://hardhat.org/assets/img/Hardhat-logo.652a7049.svg"></code>
 <code><img height="24px" src="https://inceptum-stor.icons8.com/yXEWLRxaFke7/400px-Solidity.png"></code>
-<code><img height="24px" src="https://ichi.pro/assets/images/max/724/1*P-T7USHsmPYOSBorXAqXYA.png"></code>
+<code><img height="24px" src="https://www.trufflesuite.com/img/homepage-hero-sept2021.svg"></code>
 <code><img height="24px" src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e"></code>
 <code><img height="24px" src="https://esp.ethereum.foundation/static/f8b753af4c23eb1e1c0896b62a37de8a/69585/ethers-js.png"></code>
 
